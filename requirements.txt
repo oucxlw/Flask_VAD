@@ -1,0 +1,8 @@
+Flask==1.1.2
+Flask-SocketIO==5.0.1
+numpy==1.19.0
+torch==1.5.1
+python_speech_features
+werkzeug==0.16.0
+uwsgi
+scipy
